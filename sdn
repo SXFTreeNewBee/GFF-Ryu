@@ -1,0 +1,2 @@
+#!/bin/bash
+ryu-manager sdn.py --observe-links
